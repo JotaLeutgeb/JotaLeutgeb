@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JotaLeutgeb
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently studying Data Science
 - 💞️ I’m looking for people willing to help me while I'm studying
 - 📫 How to reach me md or mail.
 
