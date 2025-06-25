@@ -1,5 +1,6 @@
-# 💫 About Me:
-# 👋 Hi, I'm Joaquin Leutgeb | Data Science & NLP Enthusiast<br><br>
+# Joaquin Leutgeb 
+# Data Science & NLP Enthusiast
+---
 
 ### 🔭 **I'm currently working on...**<br>- Building **end-to-end ML Finance projects** (from scraping to deployment) with Python/R.  <br>  | `ETL` `SHAP`  <br>- Improving my **MLOps skills** (Docker, FastAPI) to productionize models.  <br><br>
 
