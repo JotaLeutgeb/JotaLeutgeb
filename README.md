@@ -7,12 +7,9 @@
 
 ### 👯 **I'm looking to collaborate on...**<br>- Open-source NLP projects or datasets for **multilingual text analysis** (Spanish/English). <br>- Research in **applied ML** (music, social media, or healthcare domains).  <br><br>
 
-### 🤔 **I'm looking for help with...**<br>- **Model deployment best practices** (AWS/GCP, CI/CD for ML). 
-<br>- **Creative data storytelling** techniques to make my projects more impactful.  <br><br>
+### 🤔 **I'm looking for help with...**<br>- **Model deployment best practices** (AWS/GCP, CI/CD for ML).  <br>- **Creative data storytelling** techniques to make my projects more impactful.  <br><br>
 
-### 💬 **Ask me about...**<br>- How to preprocess messy text data (emoji analysis, GenZ slang, regex✨).  
-<br>- Why R’s `dplyr` is underrated for exploratory analysis.  
-<br>- My failed experiments with ML models.<br><br>
+### 💬 **Ask me about...**<br>- How to preprocess messy text data (emoji analysis, GenZ slang, regex✨).   <br>- Why R’s `dplyr` is underrated for exploratory analysis.   <br>- My failed experiments with ML models.<br><br>
 
 ### ⚡ **Fun fact:**  <br>I once trained a model to detect reggaeton lyrics vs. rock — **accuracy: 98%**. (Turns out "dame más gasolina" is a dead giveaway.)  <br><br>
 
