@@ -14,6 +14,22 @@
 
 ### ⚡ **Fun fact:**  <br>I once trained a model to detect reggaeton lyrics vs. rock — **accuracy: 98%**. (Turns out "dame más gasolina" is a dead giveaway.)  <br><br>
 
+## **Future Proyects:**
+1. Applied Business Data
+   Stack: `Advanced SQL` | `ETL pipelines` | `Power BI` | `Git`
+2. Credit Scoring Prediction
+   Stack: `FastAPI` | `Docker` | `MLFlow` | `AWS`
+3. NLP Sentiment Analysis for businesses
+   Stack: `HugghingFace` | `SpaCy` | `Streamlit` | `Docker`
+4. MLOps Pipelines for modeling
+   Stack: `Github Actions` | `MLFlow` | `Evidently` | `Prometheus` | `Grafana`
+5. Risk Predictor: Diabetes
+   Stack: `Python` | `SHAP` | `FastAPI` | `Streamlit` | `Google Cloud Healthcare API`
+6.  Deep Learning - Retail
+   Stack: `PyTorch` | `FastAPI` | `Streamlit`
+ 7. Advanced DL - Early Breast cancer Detection
+   Stack: `PyTorch` | `MLP architecture` | `CNN` 
+   
 ---
 
 📊 **Portfolio:** [datascienceportfolio.io/joaquinleut](http://datascienceportfolio.io/joaquinleut)  
