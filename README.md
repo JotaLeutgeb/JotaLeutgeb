@@ -1,17 +1,22 @@
 # 💫 About Me:
 # 👋 Hi, I'm Joaquin Leutgeb | Data Science & NLP Enthusiast<br><br>
 
-### 🔭 **I'm currently working on...**<br>- Building **end-to-end NLP projects** (from scraping to deployment) with Python/R.  <br>  - *Latest:* [Lyric-Based Song Recommender](https://github.com/JotaLeutgeb/song-recommender) | `Word2Vec` `Spotify API`  <br>- Improving my **MLOps skills** (Docker, FastAPI) to productionize models.  <br><br>
+### 🔭 **I'm currently working on...**<br>- Building **end-to-end ML Finance projects** (from scraping to deployment) with Python/R.  <br>  | `ETL` `SHAP`  <br>- Improving my **MLOps skills** (Docker, FastAPI) to productionize models.  <br><br>
 
-### 🌱 **I'm currently learning...**<br>- **Advanced NLP techniques** (Transformers, BERT) via <br>- **SQL optimization** for large datasets (*yes, I’m conquering my weak spot!*).  <br><br>
+### 🌱 **I'm currently learning...**<br>- **Cloud Deployment** (AWS, Docker) and <br>- **Professional Documentation** to garantee reproductibility (*yes, I’m conquering my weak spot!*).  <br><br>
 
 ### 👯 **I'm looking to collaborate on...**<br>- Open-source NLP projects or datasets for **multilingual text analysis** (Spanish/English). <br>- Research in **applied ML** (music, social media, or healthcare domains).  <br><br>
 
-### 🤔 **I'm looking for help with...**<br>- **Model deployment best practices** (AWS/GCP, CI/CD for ML).  <br>- **Creative data storytelling** techniques to make my projects more impactful.  <br><br>
+### 🤔 **I'm looking for help with...**<br>- **Model deployment best practices** (AWS/GCP, CI/CD for ML). 
+<br>- **Creative data storytelling** techniques to make my projects more impactful.  <br><br>
 
-### 💬 **Ask me about...**<br>- How to preprocess messy text data (emoji analysis, GenZ slang, regex✨).  <br>- Why R’s `dplyr` is underrated for exploratory analysis.  <br>- My failed experiments with ML models.<br><br>
+### 💬 **Ask me about...**<br>- How to preprocess messy text data (emoji analysis, GenZ slang, regex✨).  
+<br>- Why R’s `dplyr` is underrated for exploratory analysis.  
+<br>- My failed experiments with ML models.<br><br>
 
-### ⚡ **Fun fact:**  <br>I once trained a model to detect reggaeton lyrics vs. rock — **accuracy: 98%**. (Turns out "dame más gasolina" is a dead giveaway.)  <br><br>---<br><br>📫 **Let’s connect:**  <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinleutgeb/) <br>
+### ⚡ **Fun fact:**  <br>I once trained a model to detect reggaeton lyrics vs. rock — **accuracy: 98%**. (Turns out "dame más gasolina" is a dead giveaway.)  <br><br>
+
+---
 
 📊 **Portfolio:** [datascienceportfolio.io/joaquinleut](http://datascienceportfolio.io/joaquinleut)  
 
